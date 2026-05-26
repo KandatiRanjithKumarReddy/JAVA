@@ -67,3 +67,4 @@ class Computer {
 // LSP ensures that subclasses do not break the behavior of base classes.
 // ISP prevents forcing classes to implement unnecessary methods.
 // DIP promotes dependency on abstractions rather than concrete implementations.
+//used to write clean code
