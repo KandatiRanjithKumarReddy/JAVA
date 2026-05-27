@@ -5,7 +5,7 @@ public class Object_lifecyle {
         student obj3 =obj2;
 
         obj2=null;
-        // obj2.DisplayStudentDetails(); -> null
+        obj1.DisplayStudentDetails();
 
         obj3.DisplayStudentDetails();
     }
